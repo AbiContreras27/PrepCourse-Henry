@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del curso de Hnery
+Este es una prueba del primer repositorio clonado desde github a computador
